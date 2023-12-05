@@ -12,9 +12,7 @@
   Hardware ACCeleration Platform
 </h1>
 
-Research in hardware acceleration is hampered by a lack of an open-​source community and open-​source resources that can be used to build larger systems. Especially when using FPGAs either for research, prototyping, or systems building, most projects start from scratch, having to build almost the entire stack with every system. We are invested considerable efforts to develop an open-​source infrastructure that can be used by us but also by other researchers to explore larger projects and embark on constructing systems that spawn more than a single FPGA or accelerator device. 
-
-This infrastructure also helps to integrate FPGAs as first-​class devices in data centers and the cloud, facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
+Research in hardware acceleration is hampered by a lack of an open-source community and resources that can be used to build larger systems. This poses a considerable challenge for both GPU and FPGA scientists, compelling them to construct the entire stack anew for each system—be it for research, prototyping, or systems development. We invested substantial efforts directed towards creating an open-source infrastructure, not only benefiting our endeavors but also serving as a resource for fellow researchers. This infrastructure aims to facilitate the exploration of more extensive projects, allowing the construction of systems extending beyond a single GPU, FPGA, or a combination of them. Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to integrate FPGAs as first-​class devices in data centers and the cloud, facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
 
 ## Sections
 
@@ -29,7 +27,7 @@ This infrastructure also helps to integrate FPGAs as first-​class devices in d
 </p>
 
 ## ETHZ-HACC
-As a multi-core, GPU, and FPGA cluster, ETHZ-​HACC allows research in distributed systems, databases, cloud computing, and hardware acceleration of data science. Internally, we are using ETHZ-HACC to conduct extensive research to assemble our Infrastructure for heterogeneous architectures and hardware acceleration or HACC Platform. 
+As a multi-core CPU, GPU, and FPGA cluster, **ETHZ’s Heterogeneous Accelerated Compute Cluster (ETHZ-​HACC)** allows research in distributed systems, databases, cloud computing, and hardware acceleration of data science. Internally, we are using ETHZ-HACC as the grounds to offer our **HACC Platform** to all our cluster users. 
 
 ## Systems Group RunTime (SGRT)
 All our advances are open-source and offered as a design platform through the Systems Group RunTime. With this initiative, we hope that ETHZ-HACC users will be able to develop their accelerated applications more quickly.
