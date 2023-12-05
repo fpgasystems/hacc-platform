@@ -19,7 +19,7 @@ This infrastructure also helps to integrate FPGAs as first-​class devices in d
 ## Sections
 
 * [Acknowledgment and citation](#acknowledgment-and-citation)
-* [Developers guide](/docs/account-renewal.md#account-renewal)
+* [Developers guide](./developers-guide.md#developers-guide)
 * [Overview](#overview)
 
 # Overview
