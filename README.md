@@ -25,7 +25,7 @@ This infrastructure also helps to integrate FPGAs as first-​class devices in d
 # Overview
 
 <p align="center">
-<img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="350">
+<img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="700">
 </p>
 
 ## ETHZ-HACC
