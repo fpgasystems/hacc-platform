@@ -18,7 +18,7 @@ Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to in
 
 ## Sections
 
-* [Acknowledgment and citation](#acknowledgment-and-citation)
+* [Citation](#citation)
 * [Developers guide](./developers-guide.md#developers-guide)
 * [Overview](#overview)
 
@@ -37,31 +37,25 @@ As a multi-core CPU, GPU, and FPGA cluster, **ETHZ’s Heterogeneous Accelerated
 ## [Systems Group RunTime (SGRT)](https://github.com/fpgasystems/sgrt)
 All our advances are open-source and offered as a design platform through the Systems Group RunTime. With this initiative, we hope that ETHZ-HACC users will be able to develop their accelerated applications more quickly.
 
-# Acknowledgment and citation
-
-We encourage ETHZ-HACC users to acknowledge the support provided by AMD and ETH Zürich for their research in presentations, papers, posters, and press releases. Please use the following acknowledgment statement and citation.
-
-## Acknowledgment
-
-This work was supported in part by AMD under the Heterogeneous Accelerated Compute Clusters (HACC) program (formerly known as the XACC program - Xilinx Adaptive Compute Cluster program)
-
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8340448.svg)](https://doi.org/10.5281/zenodo.8340448)
+We encourage ETHZ-HACC Platform users to acknowledge the support provided by AMD and ETH Zürich for their research in presentations, papers, posters, and press releases. Please use the following acknowledgment statement and citation.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10474476.svg)](https://doi.org/10.5281/zenodo.10474476)
 
 ```
-@misc{moya2023hacc,
-  author       = {Javier Moya, Matthias Gabathuler, Mario Ruiz, Gustavo Alonso},
-  title        = {fpgasystems/hacc: ETHZ-HACC 2022.1},
+@misc{moya2024hacc-platform,
+  author       = {Javier Moya and Gustavo Alonso},
+  title        = {fpgasystems/hacc-platform: ETHZ-HACC-Platform 2024_1},
   howpublished = {Zenodo},
   year         = {2023},
   month        = sep,
-  note         = {\url{https://doi.org/10.5281/zenodo.8344513}},
-  doi          = {10.5281/zenodo.8340448}
+  note         = {\url{https://doi.org/10.5281/zenodo.10474476}},
+  doi          = {10.5281/zenodo.10474476}
 }
 ```
 
-### Download
+<!-- ### Download
 
 To get a printed copy of cited resource, please follow [this link.](https://public.3.basecamp.com/p/nEfuexnX55Q1ys7gAUQLjEsN) 
 
@@ -87,4 +81,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. -->
