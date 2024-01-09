@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/fpgasystems/hacc/blob/main/hacc-platform-removebg.png" align="center" width="350">
+<img src="https://github.com/fpgasystems/hacc-platform/blob/main/hacc-platform-removebg.png" align="center" width="350">
 </p>
 
 <h1 align="center">
