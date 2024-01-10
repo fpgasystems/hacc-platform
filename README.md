@@ -42,7 +42,7 @@ Our HACC Platform helps to integrate **FPGAs as first-​class devices in data c
 2. [Systems Group RunTime (SGRT)](./sgrt.md)
 3. [Coyote](./coyote.md#coyote)
 4. [FPGA Stack](./fpga-stack.md#fpga-stack)
-5. [Balboa](ggg)
+5. [Balboa](./balboa.md#balboa)
 
 <!-- ## [Coyote](https://github.com/fpgasystems/coyote)
 Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. -->
