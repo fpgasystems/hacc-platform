@@ -20,7 +20,6 @@ Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to in
 
 * [Citation](#citation)
 * [Coyote](./coyote.md#coyote)
-* [Developers guide](./developers-guide.md#developers-guide)
 * [HACC](./hacc.md#hacc)
 * [Overview](#overview)
 * [Systems Group RunTime (SGRT)](./sgrt.md)
