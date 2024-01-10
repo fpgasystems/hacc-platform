@@ -38,12 +38,11 @@ Our HACC Platform helps to integrate **FPGAs as first-​class devices in data c
 <img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="700">
 </p>
 
-1. [HACC](./hacc.md#hacc)
+1. [AMD ETHZ-HACC](./hacc.md#hacc)
 2. [Systems Group RunTime (SGRT)](./sgrt.md)
 3. [Coyote](./coyote.md#coyote)
-4. [TCP](fff)
+4. [FPGA Stack](./fpga-stack.md#fpga-stack)
 5. [Balboa](ggg)
-
 
 <!-- ## [Coyote](https://github.com/fpgasystems/coyote)
 Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. -->
