@@ -22,9 +22,9 @@ The key components of our platform are:
 * High speed and low-latency networking services including TCP/IP and RDMA stacks, 
 * Integrated collectives and libraries for both GPUs and FPGAs.
 
-Our HACC Platform helps to integrate FPGAs as first-​class devices in data centers and the cloud, facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
+Our HACC Platform helps to integrate **FPGAs as first-​class devices in data centers and the cloud,** facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
 
-## Sections
+<!-- ## Sections
 
 * [Citation](#citation)
 * [Coyote](./coyote.md#coyote)
@@ -32,15 +32,18 @@ Our HACC Platform helps to integrate FPGAs as first-​class devices in data cen
 * [Overview](#overview)
 * [Systems Group RunTime (SGRT)](./sgrt.md)
 
-# Overview
+# Overview -->
 
 <p align="center">
 <img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="700">
 </p>
 
-* [Coyote](./coyote.md#coyote)
-* [HACC](./hacc.md#hacc)
-* [Systems Group RunTime (SGRT)](./sgrt.md)
+1. [HACC](./hacc.md#hacc)
+2. [Systems Group RunTime (SGRT)](./sgrt.md)
+3. [Coyote](./coyote.md#coyote)
+4. [TCP](fff)
+5. [Balboa](ggg)
+
 
 <!-- ## [Coyote](https://github.com/fpgasystems/coyote)
 Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. -->
