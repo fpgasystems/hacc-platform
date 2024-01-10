@@ -11,6 +11,7 @@ Our FPGA stack integrates a 100 Gbps TCP/IP network stack into a state-of-the-ar
 The following picture shows a high-level overview of the FPGA (network) stack:
 
 ![Architecture overview.](./fpga-stack.png "Architecture overview.")
+
 *Architecture overview.*
 
 **To get to know more about the FPGA Stack, please have a look to:**
