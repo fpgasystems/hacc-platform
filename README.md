@@ -23,6 +23,7 @@ Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to in
 * [Developers guide](./developers-guide.md#developers-guide)
 * [HACC](./hacc.md#hacc)
 * [Overview](#overview)
+* [Systems Group RunTime (SGRT)](./sgrt.md)
 
 # Overview
 
@@ -36,8 +37,8 @@ Framework providing operating system abstractions and a range of shared networki
 <!-- ## [HACC](https://github.com/fpgasystems/hacc)
 As a multi-core CPU, GPU, and FPGA cluster, **ETHZ’s Heterogeneous Accelerated Compute Cluster (ETHZ-​HACC)** allows research in distributed systems, databases, cloud computing, and hardware acceleration of data science. Internally, we are using ETHZ-HACC as the grounds to offer our **HACC Platform** to all our cluster users. --> 
 
-## [Systems Group RunTime (SGRT)](https://github.com/fpgasystems/sgrt)
-All our advances are open-source and offered as a design platform through the Systems Group RunTime. With this initiative, we hope that ETHZ-HACC users will be able to develop their accelerated applications more quickly.
+<!-- ## [Systems Group RunTime (SGRT)](https://github.com/fpgasystems/sgrt)
+All our advances are open-source and offered as a design platform through the Systems Group RunTime. With this initiative, we hope that ETHZ-HACC users will be able to develop their accelerated applications more quickly. -->
 
 ## Citation
 
