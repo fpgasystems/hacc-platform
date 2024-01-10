@@ -46,8 +46,8 @@ for file in *.md; do
     sed -i '' 's/\*\.ethz\.ch/\\*\.ethz\.ch/g' "$new_file"
     # Replace blank spaces
     sed -i '' 's/\*\*    / **/g' "$new_file"
-    # Replace ../imgs with ./
-    sed -i '' 's/\.\.\/imgs\//\.\//g' "$new_file"
+    # Replace ./imgs/ with ./
+    sed -i '' 's@./imgs/@./@g' "$new_file"
     # Move to the tex folder
     mv "$new_file" "overleaf/${new_file//-tex/}"
   fi
