@@ -17,10 +17,12 @@ Coyote is a framework providing operating system abstractions and a range of sha
 * HBM support
 * Runtime scheduler for different host user processes
 
+The following picture shows the high level overview of Coyote's hardware and software architectures:
+
 ![High level overview of Coyote's hardware (left) and software (right) architectures.](./coyote.png "High level overview of Coyote's hardware (left) and software (right) architectures.")
 *High level overview of Coyote's hardware (left) and software (right) architectures.*
 
-To get to know more about Coyote, please have a look to:
+**To get to know more about Coyote, please have a look to:**
 
 * [Coyote’s GitHub repository](https://github.com/fpgasystems/coyote)
 * [Do OS abstractions make sense on FPGAs?](https://www.usenix.org/conference/osdi20/presentation/roscoe)

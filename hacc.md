@@ -11,7 +11,7 @@ As a multi-core CPU, GPU, and FPGA cluster, ETHZ’s Heterogeneous Accelerated C
 ![ETHZ-HACC is comprised of high-​end servers, reconfigurable accelerator cards, and high-​speed networking.](./hacc.png "ETHZ-HACC is comprised of high-​end servers, reconfigurable accelerator cards, and high-​speed networking.")
 *ETHZ-HACC is comprised of high-​end servers, reconfigurable accelerator cards, and high-​speed networking.*
 
-To get to know more about ETHZ-HACC, please have a look to:
+**To get to know more about ETHZ-HACC, please have a look to:**
 
 * [HACC’s GitHub repository](https://github.com/fpgasystems/hacc)
 * [Heterogeneous Accelerated Compute Cluster - ETH Zürich](https://public.3.basecamp.com/p/nEfuexnX55Q1ys7gAUQLjEsN)
