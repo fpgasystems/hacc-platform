@@ -12,9 +12,17 @@
   Hardware ACCeleration Platform
 </h1>
 
-Research in hardware acceleration is hampered by a lack of an open-source community and resources that can be used to build larger systems. This poses a considerable challenge for both GPU and FPGA scientists, compelling them to construct the entire stack anew for each system—be it for research, prototyping, or systems development. We invested substantial efforts directed towards creating an **open-source platform,** not only benefiting our endeavors but also serving as a resource for fellow researchers. Such a platform aims to facilitate the exploration of more extensive projects, allowing the construction of systems extending beyond a single GPU, FPGA, or a combination of them. 
+Research in hardware acceleration is hampered by a lack of an open-source community and resources that can be used to build larger systems. This poses a considerable challenge for both GPU and FPGA scientists, compelling them to construct the entire stack anew for each system—be it for research, prototyping, or systems development. We invested substantial efforts directed towards creating an **open-source platform,** not only benefiting our endeavors but also serving as a resource for fellow researchers. Such a platform (we refer to it as **Hardware ACCeleration Platform,** or just **HACC Platform**) aims to facilitate the exploration of more extensive projects, allowing the construction of systems extending beyond a single GPU, FPGA, or a combination of them. 
 
-Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to integrate FPGAs as first-​class devices in data centers and the cloud, facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
+The key components of our platform are:
+
+* Usage of a managed infrastructure composed of high-end servers, GPUs, reconfigurable accelerator cards, and high-speed networking,
+* A tailored RunTime including a CLI and API, 
+* An Operating System for FPGAs,
+* High speed and low-latency networking services including TCP/IP and RDMA stacks, 
+* Integrated collectives and libraries for both GPUs and FPGAs.
+
+Our HACC Platform helps to integrate FPGAs as first-​class devices in data centers and the cloud, facilitating their integration with existing systems. Many of these efforts are shared with industry partners, especially with AMD’s University Program and its <a href="https://www.amd-haccs.io">Heterogeneous Accelerated Compute Clusters (HACCs)</a> program.
 
 ## Sections
 
@@ -29,6 +37,10 @@ Our **Hardware ACCeleration Platform (or ETHZ-HACC Platform),** also helps to in
 <p align="center">
 <img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="700">
 </p>
+
+* [Coyote](./coyote.md#coyote)
+* [HACC](./hacc.md#hacc)
+* [Systems Group RunTime (SGRT)](./sgrt.md)
 
 <!-- ## [Coyote](https://github.com/fpgasystems/coyote)
 Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. -->
