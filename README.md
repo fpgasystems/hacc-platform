@@ -35,7 +35,7 @@ Our HACC Platform helps to integrate **FPGAs as first-​class devices in data c
 # Overview -->
 
 <p align="center">
-<img src="https://github.com/fpgasystems/hacc-platform/blob/main/hardware-acceleration-platform.png" align="center" width="700">
+<img src="https://github.com/fpgasystems/hacc-platform/blob/main/imgs/hardware-acceleration-platform.png" align="center" width="700">
 </p>
 
 1. [AMD ETHZ-HACC](./hacc.md#hacc)
