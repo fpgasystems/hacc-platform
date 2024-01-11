@@ -1,4 +1,4 @@
-# Coyote
+## Coyote
 
 Coyote is a framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. Some of Coyote's features:
 
