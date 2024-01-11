@@ -6,5 +6,5 @@ As a multi-core CPU, GPU, and FPGA cluster, ETHZ’s Heterogeneous Accelerated C
 
 **To get to know more about ETHZ-HACC, please have a look to:**
 
-* **HACC’s GitHub repository**
-* **Heterogeneous Accelerated Compute Cluster - ETH Zürich**
+* HACC’s GitHub repository: **https://github.com/fpgasystems/hacc**
+* Heterogeneous Accelerated Compute Cluster - ETH Zürich: **https://bit.ly/4aP8hQ2**

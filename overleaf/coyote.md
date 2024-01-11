@@ -17,5 +17,5 @@ The following picture shows the high level overview of Coyote's hardware and sof
 
 **To get to know more about Coyote, please have a look to:**
 
-* **Coyote’s GitHub repository**
-* **Do OS abstractions make sense on FPGAs?**
+* Coyote’s GitHub repository: **https://github.com/fpgasystems/coyote**
+* Do OS abstractions make sense on FPGAs? **https://bit.ly/3tNzd1O**
