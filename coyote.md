@@ -4,7 +4,7 @@
 <a href="https://github.com/fpgasystems/hacc-platform#--hardware-acceleration-platform">Back to top</a>
 </p>
 
-# Coyote
+## Coyote
 
 Coyote is a framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms. Some of Coyote's features:
 

@@ -4,7 +4,7 @@
 <a href="https://github.com/fpgasystems/hacc-platform#--hardware-acceleration-platform">Back to top</a>
 </p>
 
-# FPGA Stack
+## FPGA Stack
 
 Our FPGA stack integrates a 100 Gbps TCP/IP network stack into a state-of-the-art FPGA development framework. Additionally, it provides a rich set of high- performance communication primitives using HLS.
 
