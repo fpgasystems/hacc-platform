@@ -91,6 +91,10 @@ We encourage ETHZ-HACC Platform users to acknowledge the support provided by AMD
 }
 ```
 
+## Download
+
+To get a printed copy of the cited resource, please follow [this link.](https://public.3.basecamp.com/p/ir1nc6HwvcC14m6qaW7gV2jP)
+
 <!-- ### Download
 
 To get a printed copy of cited resource, please follow [this link.](https://public.3.basecamp.com/p/nEfuexnX55Q1ys7gAUQLjEsN) 
